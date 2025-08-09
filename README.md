@@ -71,7 +71,7 @@
 
 ## 📫 Let’s Connect  
 💬 Open to **collaborations** in AI, Data, and ML projects.  
-📧 Reach me at: **aliazamk09@gmail.com** (replace with your email)  
+📧 Reach me at: **aliazamk09@gmail.com** 
 🌐 [LinkedIn](https://www.linkedin.com/in/aliazamm) | [GitHub](https://github.com/AliAzam12)
 
 ---
